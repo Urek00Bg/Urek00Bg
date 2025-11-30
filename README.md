@@ -16,12 +16,12 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Urek00Bg&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Urek00Bg&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://streak-stats.demolab.com/?user=Urek00Bg&theme=tokyonight&hide_border=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urek00Bg&theme=tokyonight&hide_border=true&layout=compact" height="165">
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Urek00Bg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=Urek00Bg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Urek00Bg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=Urek00Bg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
